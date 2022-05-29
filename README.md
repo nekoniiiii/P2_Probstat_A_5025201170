@@ -30,10 +30,11 @@ Karena `pval <= 0.05` (significant value), maka hipotesis null dapat ditolak seh
 ![5](https://user-images.githubusercontent.com/72701806/170874707-855d17e4-8d8a-4896-b615-8bb9348ed900.jpg)
 
 ### c. <br/>
-Berdasarkan tabel berikut, terdapat bukti kuat untuk menolak hipotesis null karena nilai p atau `pval`nya sangat kecil. <br/>
-![values-of-p-Inference](https://user-images.githubusercontent.com/72701806/170873873-c154d582-910e-4ab0-94af-2a8495b68dff.jpg)
-Sumber: https://www.jcpcarchives.org/full/p-value-statistical-significance-and-clinical-significance-121.php
+Berdasarkan tabel berikut, terdapat bukti kuat untuk menolak hipotesis null karena nilai p atau `pval` nya sangat kecil. <br/>
+![values-of-p-Inference](https://user-images.githubusercontent.com/72701806/170873873-c154d582-910e-4ab0-94af-2a8495b68dff.jpg) <br/>
+Sumber: https://www.jcpcarchives.org/full/p-value-statistical-significance-and-clinical-significance-121.php <br/>
 
 ## 3
-![6](https://user-images.githubusercontent.com/72701806/170874737-5a394c64-9fd5-4e7e-81cf-6110ff0be8ef.jpg)
+![6](https://user-images.githubusercontent.com/72701806/170874737-5a394c64-9fd5-4e7e-81cf-6110ff0be8ef.jpg) <br/>
+Karena `t-value` berada di dalam range, maka kesimpulannya tidak ditemukan perbedaan dalam nilai mean.
 
